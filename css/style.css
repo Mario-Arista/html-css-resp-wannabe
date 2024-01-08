@@ -134,5 +134,26 @@ img {
     .container {
         width: 100%;
     }
+
+    .why-us .col-left {
+        width: 50%;
+    }
+    
+    .why-us .col-right {
+        width: 50%;
+    }
+    
+    p {
+        font-size: 14px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    .card p {
+        font-size: 16px;
+    }
+}
 }
 
