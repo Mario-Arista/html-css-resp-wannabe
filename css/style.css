@@ -199,3 +199,12 @@ img {
 
 
 }
+
+/* BONUS: Sopra i 768px e fino ai 1160px */
+
+@media screen and (min-width: 769px) and (max-width: 1160px) {
+    .container {
+        width: 100%;
+    }
+
+}
