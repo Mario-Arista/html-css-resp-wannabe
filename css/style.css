@@ -142,10 +142,6 @@ img {
     .why-us .col-right {
         width: 50%;
     }
-    
-    p {
-        font-size: 14px;
-    }
 
     p {
         font-size: 14px;
@@ -164,12 +160,29 @@ img {
     .container {
         padding: 0;
     }
+
     .row {
         flex-wrap: wrap;
         flex-direction: column;
         align-items: center;
 
         gap: 65px;
+    }
+
+    h1 {
+        font-size: 40px;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+
+    p {
+        font-size: 18px;
     }
 
     .row .col {
